@@ -1,3 +1,2 @@
-Git is a free software.
-Git can organize your files.
-Git is not easy to handle.
+Git is a distributed version control system.
+Git is free software.
